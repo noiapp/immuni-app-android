@@ -157,6 +157,7 @@ I's work well and it's free.
 I need to install by Android Studio plugin
 >mettere foto 
 
+
 Then it will be enabled a TAB on left page with some buttons: load, save, and overview also other buttons 
 to manage the diagram layout to make it more detailed. 
 >mettere foto 
