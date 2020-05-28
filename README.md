@@ -38,6 +38,7 @@
   - [Backend services](#backend-services)
 - [Testing](#testing)
 - [Checking the build](#checking-the-build)
+- [Produce UML documentation with Android Studio](#produce-uml-documentation-with-android-studio)
 - [Contributing](#contributing)
   - [Contributors](#contributors)
 - [License](#license)
@@ -146,6 +147,27 @@ To run the instrumentation/UI tests, execute the following Gradle task:
 In addition to making the code open-source, we wish to help people verify that builds published on the App Store are coming from a specific commit of this repository. Please refer to the [Immuni Technology Description](https://github.com/immuni-app/documentation/blob/master/Technology%20Description.md#android-app-technologies) for a complete overview of the goals and status of this effort.
 
 Currently, we have a working open continuous integration for building the client. [Here](.circleci/config.yml) is the full specification. When it comes to reproducible builds, we will instead open an issue explaining what we have done so far and any missing steps.
+
+# Produce UML documentation with Android Studio
+
+To create a UML class diagram of immuni app with Android Studio you can use a plugin like this 
+https://plugins.jetbrains.com/plugin/4946-simpleumlce/reviews
+I's work well and it's free.
+
+I need to install plugin of Android Studio
+![install plugin](doc_images/screen_simpleUML_install.png)
+
+
+Then it will be enabled a TAB on left page with some buttons: load, save, and overview also other buttons 
+to manage the diagram layout to make it more detailed. 
+![tab plugin](doc_images/screen_tab_simpleUML.png)
+
+If press right button on project folder \ namespace the tool make the diagram only for this specific namespace, it will open
+a menu with at the bottom this item "Add to simpleUML Diagram" like this
+![pop up menu plugin](doc_images/screen_tasto_dx_su_namespace.png)
+
+The it's possible save the diagram in img format trought a dialog by decide where save the file like this
+![save pop-up](doc_images/screen_save_diagram.png)
 
 # Contributing
 
