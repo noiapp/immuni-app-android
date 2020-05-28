@@ -154,7 +154,7 @@ To create a UML class diagram of immuni app with Android Studio you can use a pl
 https://plugins.jetbrains.com/plugin/4946-simpleumlce/reviews
 I's work well and it's free.
 
-I need to install by Android Studio plugin
+I need to install plugin of Android Studio
 https://github.com/BruceGitHub/immuni-app-android/blob/master/doc_images/screen_save_diagram.png
 
 Then it will be enabled a TAB on left page with some buttons: load, save, and overview also other buttons 
