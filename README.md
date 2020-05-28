@@ -144,7 +144,7 @@ To run the instrumentation/UI tests, execute the following Gradle task:
 
 # Manual Testing  
 
-[https://github.com/Magicianred/immuni-app-android/tree/manual_testing/manual_testing](Click here to see the instructions and download the Excel file)  
+[Click here to see the instructions and download the Excel file](https://github.com/Magicianred/immuni-app-android/tree/manual_testing/manual_testing)  
 
 # Checking the build
 
