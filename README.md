@@ -155,19 +155,18 @@ https://plugins.jetbrains.com/plugin/4946-simpleumlce/reviews
 I's work well and it's free.
 
 I need to install by Android Studio plugin
->mettere foto 
-
+https://github.com/BruceGitHub/immuni-app-android/blob/master/doc_images/screen_save_diagram.png
 
 Then it will be enabled a TAB on left page with some buttons: load, save, and overview also other buttons 
 to manage the diagram layout to make it more detailed. 
->mettere foto 
+https://github.com/BruceGitHub/immuni-app-android/blob/master/doc_images/screen_tab_simpleUML.png
 
 If press right button on project folder \ namespace the tool make the diagram only for this specific namespace, it will open
 a menu with at the bottom this item "Add to simpleUML Diagram" like this
-> mettere foto 
+https://github.com/BruceGitHub/immuni-app-android/blob/master/doc_images/screen_tasto_dx_su_namespace.png
 
 The it's possible save the diagram in img format trought a dialog by decide where save the file like this
-> mettere foto 
+https://github.com/BruceGitHub/immuni-app-android/blob/master/doc_images/screen_save_diagram.png
 
 # Contributing
 
