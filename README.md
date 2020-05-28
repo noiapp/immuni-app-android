@@ -37,6 +37,7 @@
 - [Installation](#installation)
   - [Backend services](#backend-services)
 - [Testing](#testing)
+- [Manual Testing](#manual-testing)
 - [Checking the build](#checking-the-build)
 - [Contributing](#contributing)
   - [Contributors](#contributors)
@@ -140,6 +141,10 @@ To run the instrumentation/UI tests, execute the following Gradle task:
 ```sh
 ./gradlew connectedAndroidTest
 ```
+
+# Manual Testing  
+
+[https://github.com/Magicianred/immuni-app-android/tree/manual_testing/manual_testing](Click here to see the instructions and download the Excel file)  
 
 # Checking the build
 
